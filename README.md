@@ -1,6 +1,6 @@
 ### Hey 👋
 
-I'm an Embedded Systems engineer (in the making), Open Source Hardware Advocate ......
+I'm an Embedded Systems engineer (in the making), Open Source Hardware Advocate ...
 
 #### 😄 Pronouns: He/Him
 
