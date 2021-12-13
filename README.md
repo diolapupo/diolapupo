@@ -4,11 +4,10 @@ I'm an Embedded Systems engineer (in the making), Open Source Hardware Advocate 
 
 #### 😄 Pronouns: He/Him
 
-#### ⚡ Fun fact: I'm a football(soccer🙄)data geek.
+#### ⚡ Fun fact: I'm a football(soccer🙄) data geek.
 
 #### ✍🏾 Favourite Line: Talk is cheap. Show me the code.
 
-### Programming Languages
 **Using**
 
 | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" width="30">](https://en.cppreference.com/w/c) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="30">](https://www.python.org/) |[<img src="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/97/81/2d/97812d68-3a5b-8429-30cb-b1d23df1eafd/source/60x60bb.jpg" width = "30">](https://en.wikipedia.org/wiki/VHDL)|
